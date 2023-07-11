@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiphyIntegration", "GiphyIntegration\GiphyIntegration.csproj", "{A9DD60B5-DEA8-4732-BFF4-CAAE987401F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9DD60B5-DEA8-4732-BFF4-CAAE987401F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DD60B5-DEA8-4732-BFF4-CAAE987401F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DD60B5-DEA8-4732-BFF4-CAAE987401F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DD60B5-DEA8-4732-BFF4-CAAE987401F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3C9C15E-8B22-4476-845C-21598EA1CD39}
+	EndGlobalSection
+EndGlobal
