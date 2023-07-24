@@ -1,5 +1,4 @@
-﻿using GiphyIntegration.Models;
-using GiphyIntegration.Services;
+﻿using GiphyIntegration.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
